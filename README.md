@@ -46,7 +46,7 @@ reqres_api_automation
 │   └── config.py
 │
 ├── conftest.py
-├── .env
+├── .env.example
 ├── requirements.txt
 └── README.md
 ```
@@ -119,7 +119,7 @@ These fixtures help eliminate duplicate code and improve maintainability.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/reqres-api-automation.git
+git clone https://github.com/schugh91/reqres-api-automation.git
 ```
 
 Navigate to the project directory:
